@@ -21,7 +21,7 @@
             "Write(examples/*/README*.md)",
             "Write(examples/*/TICKET*.md)",
             "Write(./CLAUDE.md)",
-            "Write(lesson_smith_readup_template/**/*.py)",
+            "Write(learn_ai_agent_desktop_app_basic/**/*.py)",
             "Write(tests/**/*.py)",
             "Write(scripts/**/*.py)",
             "Read(========== Bash Section ==========)",
