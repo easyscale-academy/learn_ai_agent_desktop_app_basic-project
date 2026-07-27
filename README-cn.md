@@ -1,34 +1,12 @@
 ---
-description: "读完你能按自己的处境选定并用熟一款 AI Agent Desktop App, 认识界面上每一个开关, 让它读写文件, 用上一个 Agent Skill, 并学会同时带几个 session 干活的当老板心法."
+description: "学完你能从零选定并用熟一款主流 AI Agent Desktop App (Claude Code, Codex, 或 Google Antigravity): 按自己的所在地区与职业目标选型, 把账号注册好, 认识界面上每一个开关, 让它读写文件与截图, 召唤一个全球统一标准的 Agent Skill 完成任务, 学会同时带几个 session 并行干活, 用写计划文档对抗遗忘的当老板心法, 并能说清这类 Agent App 跨工具通用的七件共性. 覆盖三款工具的选型逻辑: 长期在美国求学就业优先 Claude Code, 主要活动在中国大陆的用户在 Codex 与 Antigravity 之间二选一. 深度是 basic 到能立刻用它加速工作的中级手感, 不深入任何工具的专业自动化场景."
+github_about: "从零选定并用熟一款 AI Agent Desktop App (Claude Code, Codex 或 Antigravity): 认识界面, 用上 Agent Skill, 学会同时带几个 session 干活的当老板心法."
 ---
 
-# 学会用 AI Agent Desktop App 总览
+# learn_ai_agent_desktop_app_basic-project
 
-> 一句话: 这门课教你从零选定并用熟一款 AI Agent Desktop App. 想先了解全貌, 看 [README-ORIGINAL-cn.md](README-ORIGINAL-cn.md).
+AI Agent Desktop App, 也就是 Claude Code, Codex, Antigravity 这类工具, 正快速成为知识工作者的标配入口. 但对第一次接触的人来说, 该选哪一款, 账号怎么办, 界面上一排按钮都是什么, 怎么才能真正让它干活而不只是聊天, 处处是看不见的门槛.
 
-## 1. 这门课是什么
+学完这门课, 你能按自己的所在地区与职业目标, 在 Claude Code, Codex, Antigravity 三款里选定要学的那一款, 把账号免费办好, 认全界面上每一个真正影响体验的开关, 用它读写文件与截图, 召唤一个全球统一标准的 Agent Skill 把活干完. 更进一步, 你会学到一套同时带几个 session 并行干活, 用写计划文档对抗遗忘的当老板心法, 并能说清这类 Agent App 跨工具通用的那七件共性, 换任何一款新工具都不用从头学. 深度停留在 basic 到能立刻拿它加速日常工作的中级手感, 不深入任何工具的专业自动化或系统级操作场景.
 
-这门课教你从零开始, 学会用一款 AI Agent Desktop App (Claude Code, Codex, 或 Antigravity) 真正干活: 怎么选, 怎么装, 界面上每个开关是什么, 以及怎么用得更快.
-
-这是一个 readup 类型的教学仓库: 整个 repo 就是一门课, 内容拆成 [examples/](examples/) 下一个个按编号排列的 mini task. 你不用把它当成一本从头读到尾的大部头, 只要照下面 "怎么读" 的路子, 一篇篇顺着读下来, 边读边照每篇的 TICKET 做, 就能学会.
-
----
-
-## 2. 怎么读
-
-1. 先读 [examples/README-cn.md](examples/README-cn.md) 的系列索引, 对整门课有张地图.
-2. 按编号顺序读 examples 下的 mini task (01, 02, ...): 每个 mini task 目录里, 先读 README (这一篇教什么, 带你做什么), 再照它的 TICKET 把 "要做的事情" 逐项做完, 用 "检查清单" 自查是不是真的做到了.
-3. 一篇读完再读下一篇, 直到读完最后一篇 (它会帮你梳理学到了什么, 并指出想更进一步可以往哪走).
-4. 读到什么算成: 每个 mini task 的 TICKET 检查清单都能逐项打勾, 且能不看教程自己把核心流程走一遍.
-
----
-
-## 3. 课程内容
-
-全部 mini task 按主题梳理在 [examples/README-cn.md](examples/README-cn.md) 里, 从那儿进入.
-
----
-
-## 4. 读完你能做到什么
-
-你能独立选定并用熟一款主流 AI Agent Desktop App, 让它替你读写文件, 用上一个跨工具通用的 Agent Skill, 并学会同时带几个 session 干活, 不再守着一个窗口发呆等结果.
+选型上按现实处境分野. 长期在美国求学就业, 优先选 Claude Code, 它在美国企业里的采用规模和使用者口碑目前最强. 主要活动在中国大陆, 受 Claude 对该地区的限制, 可以在 Codex 与 Antigravity 之间二选一, 2026 年年中这个时间点, Codex 比 Antigravity 更成熟, 因而更推荐. 三款工具选你日常真正会用的那一款学即可, 不必全学.

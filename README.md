@@ -1,34 +1,12 @@
 ---
-description: "By the end you can pick and get comfortable with an AI Agent Desktop App that fits your situation, learn every switch in the interface, have it read and write files, put an Agent Skill to work, and pick up the mindset for running several sessions at once like a boss."
+description: "By the end you can pick and get comfortable with a mainstream AI Agent Desktop App (Claude Code, Codex, or Antigravity) from scratch: choose the right one for your region, get an account set up, learn every interface switch, read and write files, invoke a worldwide standard Agent Skill, and run several sessions at once. Depth is basic to an intermediate, get real work done feel."
+github_about: "Pick and get comfortable with an AI Agent Desktop App (Claude Code, Codex, or Antigravity): learn the interface, put Agent Skill to work, and run several sessions at once."
 ---
 
-# Learn to Use an AI Agent Desktop App Overview
+# learn_ai_agent_desktop_app_basic-project
 
-> One line: this course teaches you to pick and get comfortable with an AI Agent Desktop App from scratch. For the full picture, see [README-ORIGINAL.md](README-ORIGINAL.md).
+AI Agent Desktop Apps, meaning tools like Claude Code, Codex, and Antigravity, are quickly becoming the default entry point for knowledge workers. But for anyone touching them for the first time, there are hidden hurdles everywhere: which one to pick, how to get an account, what every button in the interface actually does, and how to get it to actually do work instead of just chat.
 
-## 1. What This Course Is
+By the end of this course, you can pick which of Claude Code, Codex, or Antigravity to learn based on your own region and career goals, get a free account set up, learn every switch in the interface that actually matters, use it to read and write files and screenshots, and invoke an Agent Skill built on a worldwide standard to get a task done. Beyond that, you'll pick up a mindset for running several sessions at once, using written plan documents to fight forgetting, feeling like the boss dispatching and reviewing work, and you'll be able to explain the seven traits shared across every tool in this category, so picking up any new one never means starting from zero. Depth runs from basic up to an intermediate, get-real-work-done feel, without going deep into any single tool's professional automation or system level control setups.
 
-This course teaches you, from scratch, to actually get work done with an AI Agent Desktop App (Claude Code, Codex, or Antigravity): how to choose one, how to install it, what every switch in the interface does, and how to use it faster.
-
-This is a readup style teaching repo: the whole repo is one course, and its content is split into numbered mini tasks under [examples/](examples/). Don't treat it like a book you read cover to cover in one sitting. Just follow the "How to Read This" path below, read one mini task after another in order, and work through each one's TICKET as you go.
-
----
-
-## 2. How to Read This
-
-1. Start with the series index at [examples/README.md](examples/README.md) to get a map of the whole course.
-2. Read the mini tasks under examples in numeric order (01, 02, ...): in each mini task's folder, read the README first (what this one teaches, what it has you do), then work through its TICKET's "Things to Do" item by item, and use its "Checklist" to confirm you actually got there.
-3. Finish one, move to the next, all the way through the last one (it pulls together everything you've learned and points out where to go if you want to push further).
-4. What counts as done: every mini task's TICKET checklist is checked off, and you can walk through the core workflow yourself without looking back at the tutorial.
-
----
-
-## 3. Course Content
-
-Every mini task is organized by theme in [examples/README.md](examples/README.md), start there.
-
----
-
-## 4. What You Can Do When You're Done
-
-You'll be able to pick and get comfortable with a mainstream AI Agent Desktop App on your own, have it read and write files for you, put a cross-tool Agent Skill to work, and run several sessions at once instead of sitting there watching one window and waiting.
+The choice of tool comes down to your actual situation. If you study or work long term in the US, go with Claude Code first, it currently has the strongest adoption and reputation inside US companies. If you're mainly based in mainland China, Claude's regional restrictions push you toward a choice between Codex and Antigravity, and as of mid 2026, Codex is more mature than Antigravity, so it's the more recommended pick. Learn whichever one you'll actually use day to day, you don't need to learn all three.
