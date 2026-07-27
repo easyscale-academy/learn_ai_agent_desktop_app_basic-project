@@ -1,0 +1,45 @@
+# Ported from Claude Code .claude/settings.json.
+#
+# NOT ported: the `model` key. Claude Code's project model ("haiku") is an
+# Anthropic model ID and has no equivalent in Codex, which only runs
+# OpenAI/ChatGPT models. Pick a Codex model explicitly (e.g. via `codex
+# --model ...` or by setting `model` below) rather than trusting a translated
+# value.
+#
+# defaultMode "acceptEdits" (auto-accept file edits, still ask for anything
+# else) has no exact Codex preset; "on-request" + "workspace-write" is the
+# closest available combination.
+approval_policy = "on-request"
+sandbox_mode = "workspace-write"
+
+# ---- Permissions (beta) — ported from settings.json "permissions.allow" ----
+# The source list included literal entries like
+# "Read(========== Read Section ==========)" used purely as human-readable
+# section dividers, since JSON has no comment syntax. TOML does, so those are
+# replaced with real "#" comments below instead of being carried over as rules.
+default_permissions = "ported"
+
+[permissions.ported]
+description = "Workspace-writable — replaces the itemized Write(...) allow list from Claude Code with a single workspace-wide write grant"
+
+# The source .claude/settings.json permissions.allow list gated writes down
+# to specific globs (.claude/*.md, README*.md, tests/**/*.py, ...). Several
+# of those globs are invalid for Codex "write" rules (filename/extension
+# globs are deny-only — see https://developers.openai.com/codex/permissions),
+# and per-glob translation kept needing case-by-case fixes. Since the goal
+# here is simply "the whole workspace is writable," that whole list is
+# collapsed into one subtree rule instead of being itemized.
+[permissions.ported.filesystem.":workspace_roots"]
+"." = "write"
+
+# -- Network rule (from "WebFetch(domain:raw.githubusercontent.com)") --
+[permissions.ported.network]
+enabled = true
+domains = { "raw.githubusercontent.com" = "allow" }
+
+# -- Command rules (from the "Bash(...)" allow entries) --
+# Codex expresses these separately in .codex/rules/default.rules, not here.
+
+# NOT ported: the bare "WebSearch" allow entry. No Codex config.toml or
+# permissions-profile field for gating built-in web search was found in the
+# current docs, so there is nothing to translate it to.
