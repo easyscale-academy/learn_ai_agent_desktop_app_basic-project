@@ -17,7 +17,7 @@ Finishing every mini task in this course should leave you with a complete, immed
 3. Read every mini task under examples in numeric order, reading each one's README first, then working through its own TICKET item by item and confirming it.
 4. Read the final review and level up article, and get clear on what you've learned and where to go next.
 
-**Estimated time:** 6 to 10 hours, best split across a few sessions rather than done in one sitting
+**Estimated time:** 2 to 4 hours total, roughly 1 to 2 hours for picking a tool and getting your account set up, and another 1 to 2 hours for getting hands on with the tool and practicing the mindset
 
 ---
 
