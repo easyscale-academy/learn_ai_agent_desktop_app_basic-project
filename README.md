@@ -1,5 +1,5 @@
 ---
-description: "By the end you can pick and get comfortable with a mainstream AI Agent Desktop App (Claude Code, Codex, or Antigravity) from scratch: choose the right one for your region, get an account set up, learn every interface switch, read and write files, invoke a worldwide standard Agent Skill, and run several sessions at once. Depth is basic to an intermediate, get real work done feel."
+description: "AI Agent Desktop App is, right now, the best balance of usability, learning curve, and productivity, the work super app of this era: once it hooks you, it ends up owning nine tenths of your workday. This required course takes you from zero to comfortable with a mainstream Agent Desktop App (Claude Code, Codex, or Antigravity) that does real work, not just chat. Depth: basic to intermediate."
 github_about: "Pick and get comfortable with an AI Agent Desktop App (Claude Code, Codex, or Antigravity): learn the interface, put Agent Skill to work, and run several sessions at once."
 ---
 
