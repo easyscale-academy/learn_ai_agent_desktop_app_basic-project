@@ -1,5 +1,5 @@
 ---
-description: "学完你能从零选定并用熟一款主流 AI Agent Desktop App (Claude Code, Codex, 或 Google Antigravity): 按自己的所在地区与职业目标选型, 把账号注册好, 认识界面上每一个开关, 让它读写文件与截图, 召唤一个全球统一标准的 Agent Skill 完成任务, 学会同时带几个 session 并行干活, 用写计划文档对抗遗忘的当老板心法, 并能说清这类 Agent App 跨工具通用的七件共性. 覆盖三款工具的选型逻辑: 长期在美国求学就业优先 Claude Code, 主要活动在中国大陆的用户在 Codex 与 Antigravity 之间二选一. 深度是 basic 到能立刻用它加速工作的中级手感, 不深入任何工具的专业自动化场景."
+description: "AI Agent Desktop App 是眼下体验, 学习门槛与生产力三者平衡最好的入口, 是这个时代的工作超级 App: 一旦你习惯了它带来的极致生产力, 它会占据你日常思考, 计划, 执行, 审阅里九成的时间. 这是一门教你学会高效驾驭 Agent, 把生产力提上去的必修课, 从零带你选定并用熟一款主流 Agent Desktop App (Claude Code, Codex, 或 Antigravity), 让它真正替你干活, 而不只是聊天. 深度是 basic 到能立刻拿它加速日常工作的中级手感."
 github_about: "从零选定并用熟一款 AI Agent Desktop App (Claude Code, Codex 或 Antigravity): 认识界面, 用上 Agent Skill, 学会同时带几个 session 干活的当老板心法."
 ---
 
