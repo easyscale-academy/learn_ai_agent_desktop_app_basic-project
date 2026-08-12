@@ -40,4 +40,4 @@ Finishing every mini task in this course should leave you with a complete, immed
 - Adjust model and Effort to match how hard a task actually is, and know which tier your money is going toward.
 - Write your goal and steps into a plan document before starting, so you can pick right back up even if you lose the session.
 - Tell exploratory tasks apart from execution and review tasks, and know when to think something through in sequence versus when you can run several sessions in parallel.
-- Name the seven traits shared across this category of Agent App, so you already know what to look for the moment you pick up a new tool.
+- Name the eight traits shared across this category of Agent App, so you already know what to look for the moment you pick up a new tool.

@@ -16,7 +16,7 @@ description: "读完你能按自己的处境选定并用熟一款 AI Agent Deskt
 
 ## 2. 怎么读
 
-1. 先读 [examples/README-cn.md](examples/README-cn.md) 的系列索引, 对整门课有张地图.
+1. 先读 [examples/01-overview/README-cn.md](examples/01-overview/README-cn.md) 的系列索引, 对整门课有张地图.
 2. 按编号顺序读 examples 下的 mini task (01, 02, ...): 每个 mini task 目录里, 先读 README (这一篇教什么, 带你做什么), 再照它的 TICKET 把 "要做的事情" 逐项做完, 用 "检查清单" 自查是不是真的做到了.
 3. 一篇读完再读下一篇, 直到读完最后一篇 (它会帮你梳理学到了什么, 并指出想更进一步可以往哪走).
 4. 读到什么算成: 每个 mini task 的 TICKET 检查清单都能逐项打勾, 且能不看教程自己把核心流程走一遍.
@@ -25,7 +25,7 @@ description: "读完你能按自己的处境选定并用熟一款 AI Agent Deskt
 
 ## 3. 课程内容
 
-全部 mini task 按主题梳理在 [examples/README-cn.md](examples/README-cn.md) 里, 从那儿进入.
+全部 mini task 按主题梳理在系列索引 [examples/01-overview/README-cn.md](examples/01-overview/README-cn.md) 里, 从那儿进入.
 
 ---
 
