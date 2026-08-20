@@ -1,16 +1,12 @@
-[project]
-name = "learn_ai_agent_desktop_app_basic"
-version = "0.1.1"
-requires-python = ">=3.12,<4.0"
-dependencies = [
-]
+---
+description: "AI Agent Desktop App is the work super app of this era, and right now the best balance there is of usability, learning curve, and productivity. Once you get used to one, it ends up owning nine tenths of your thinking, planning, doing, and reviewing; the people who can't use one are still grinding through by hand the same work everyone else hands off in a sentence. This course takes you from zero to comfortable with a mainstream Agent Desktop App, so it does real work for you instead of just chatting. You walk away with a work partner on call, and a way of working where you hand tasks out and review what comes back. Depth: basic up to an intermediate feel you can put to work immediately."
+github_about: "Pick and get comfortable with an AI Agent Desktop App: how to use the desktop versions of Claude Code, Codex, and Antigravity, and how to run several sessions at once."
+---
 
-[tool.setuptools.packages.find]
-where = ["."]
-include = ["learn_ai_agent_desktop_app_basic*"]
-exclude = [
-]
+# learn_ai_agent_desktop_app_basic-project
 
-[build-system]
-requires = ["setuptools>=61.0", "wheel"]
-build-backend = "setuptools.build_meta"
+AI Agent Desktop Apps, meaning tools like Claude Code, Codex, and Antigravity, are quickly becoming the default entry point for knowledge workers. They are not the same thing as the ChatBot you're used to: you hand one a goal, and it breaks the work into steps, reads your files, edits your files, and checks its own work when it's done. But for anyone touching them for the first time, there are hidden hurdles everywhere: which one to pick, how to get an account, what every button in the interface actually does, and how to get it to actually do work instead of just chat.
+
+By the end of this course, you can pick a tool that fits your situation and get genuinely comfortable with it: having it read and write files and screenshots for you, invoking an Agent Skill built on a worldwide standard to get a task done, seeing how a resource like context gets quietly eaten up, and building the habit of putting important conclusions into files. More importantly, you'll pick up a way of working that runs several sessions at once: think something through to about seventy percent, hand the pieces out, and come back as the person reviewing progress. Move that same feel into another setting and it's the beginning of team management skill. Depth runs from basic up to an intermediate, get-real-work-done feel, without going deep into any single tool's professional automation or system level control setups.
+
+The choice of tool comes down to your actual situation. If you study or work long term in the US, go with Claude Code first, it currently has the strongest adoption and reputation inside US companies. If you're mainly based in mainland China, Claude's regional restrictions push you toward a choice between Codex and Antigravity, and as of mid 2026, Codex is more mature, so it's the more recommended pick. Learn whichever one you'll actually use day to day, you don't need to learn all three. All the content lives under [examples/](examples/) — open it, start at the 01 series index, and read down in numeric order. No slash commands and no extra environment setup required.
