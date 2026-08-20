@@ -17,7 +17,7 @@ description: "你能用自己的话讲清 mini project 视角与 Agent Skill 的
 3. 自查 GitHub 底子: 在 GitHub 上创建 repo, clone 到本地, commit 并 push 回去, 这三件事你会不会? 心里没底就先去补一下再往后走, 后面每一篇都默认你已经会了.
 4. 合上文档, 试着用自己的话回答三个问题: 这门课教哪三款工具? 为什么只教 Desktop? 为什么不教 Cursor 那一类?
 
-**预计用时:** 20 到 30 分钟
+**预计用时:** 15 到 30 分钟
 
 ---
 
