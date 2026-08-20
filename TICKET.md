@@ -18,7 +18,7 @@ Finishing every Task in this course should leave you with a complete, immediatel
 4. When you reach the block covering specific tools, read only the piece for the tool you picked, and skip the other two.
 5. Read the final wrap up Task, and get clear on what you've learned and where to go next.
 
-**Estimated time:** 2 to 4 hours total, roughly 1 to 2 hours for picking a tool and getting your account set up, and another 1 to 2 hours for getting hands on with the tool and practicing the mindset
+**Estimated time:** 243 to 395 minutes (about 4 to 6.5 hours)
 
 ---
 
